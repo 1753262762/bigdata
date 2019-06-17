@@ -1,4 +1,4 @@
-```
+```cpp
 #define MAXN 9999
 #define MAXSIZE 10
 #define DLEN 4
