@@ -3,6 +3,7 @@
 */
 #include "_MES_W_T.h"
 #include "_EES_W_T.h"
+#include "BigNum.h"
 using namespace std;
 int main()
 {
@@ -23,9 +24,7 @@ int main()
 		{
 			sum = a * b;
 		}
-		//		else if(s=="/"){
-		//			sum=a/b;
-		//		}
+		// 闹麻了没写除法
 		sum.print();
 	}
 	return 0;
